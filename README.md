@@ -30,4 +30,8 @@ streamlit run app/app.py
 ---
 📈 Results
 
-(Add your confusion matrix and ROC curve images here)
+<img width="433" height="348" alt="image" src="https://github.com/user-attachments/assets/03b46942-8017-49de-be77-e2c872c2fe0e" />
+
+<img width="433" height="436" alt="image" src="https://github.com/user-attachments/assets/89918ab4-49b5-4b30-bfc2-dcce67217042" />
+
+<img width="433" height="458" alt="image" src="https://github.com/user-attachments/assets/bd239c6f-9900-4483-b0ad-288752b5528e" />
